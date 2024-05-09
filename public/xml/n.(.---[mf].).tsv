@@ -1,0 +1,63 @@
+os_ou	327	24902	6166741	θεῷ	θεός	n-s---fd-	god	s---fd	OBJ	6166738
+os_ou	327	24905	6166793	Πολέμαρχος	Πολέμαρχος	n-s---mn-	Polemarchus	s---mn	SBJ	6166796
+os_ou	327	24905	6166795	Κεφάλου	Κέφαλος	n-s---mg-	Cephalus	s---mg	ATR	6166793
+os_ou	327	24906	6166818	Πολέμαρχος	Πολέμαρχος	n-s---mn-	Polemarchus	s---mn	SBJ	6166813
+os_ou	327	24911	6166855	Πολέμαρχος	Πολέμαρχος	n-s---mn-	Polemarchus	s---mn	SBJ	6166856
+os_ou	327	24911	6166858	Ἀδείμαντος	Ἀδείμαντος	n-s---mn-	Adimantus	s---mn	CO	6166855
+os_ou	327	24911	6166862	ἀδελφὸς	ἀδελφός	n-s---mn-	sons of the same mother	s---mn	APOS	6166858
+os_ou	327	24911	6166864	Νικήρατος	Νικήρατος	n-s---mn-	Niceratus	s---mn	CO	6166858
+os_ou	327	24912	6166877	Πολέμαρχος	Πολέμαρχος	n-s---mn-	Polemarchus	s---mn	SBJ	6166878
+os_ou	328	24922	6166973	Ἀδείμαντος	Ἀδείμαντος	n-s---mn-	Adimantus	s---mn	SBJ	6166978
+os_ou	328	24922	6166990	ἵππων	ἵππος	n-p---mg-	a horse	p---mg	ADV	6166989
+os_ou	328	24922	6166992	θεῷ	θεός	n-s---fd-	god	s---fd	ATR	6166990
+os_ou	328	24923	6166995	ἵππων	ἵππος	n-p---mg-	a horse	p---mg	ADV	6166994
+os_ou	328	24926	6167011	ἵπποις	ἵππος	n-p---md-	a horse	p---md	OBJ	6167009
+os_ou	328	24928	6167021	Πολέμαρχος	Πολέμαρχος	n-s---mn-	Polemarchus	s---mn	SBJ	6167019
+os_ou	328	24935	6167088	Πολεμάρχου	Πολέμαρχος	n-s---mg-	Polemarchus	s---mg	OBJ	6167086
+os_ou	328	24935	6167096	Εὐθύδημον	Εὐθύδημος	n-s---ma-	Euthydemus	s---ma	CO	6167091
+os_ou	328	24935	6167100	Πολεμάρχου	Πολέμαρχος	n-s---mg-	Polemarchus	s---mg	ATR	6167101
+os_ou	328	24935	6167101	ἀδελφούς	ἀδελφός	n-p---ma-	sons of the same mother	p---ma	APOS	6167096
+os_ou	328	24935	6167106	Θρασύμαχον	Θρασύμαχος	n-s---ma-	Thrasymachus	s---ma	CO	6167091
+os_ou	328	24935	6167108	Καλχηδόνιον	Καλχηδόνιος	n-s---ma-	of Calchedon (Chalcedon)	s---ma	ATR	6167106
+os_ou	328	24935	6167116	Ἀριστωνύμου	Ἀριστωνύμος	n-s---mg-	nodef	s---mg	ATR	6167114
+os_ou	328	24936	6167126	Πολεμάρχου	Πολέμαρχος	n-s---mg-	Polemarchus	s---mg	ATR	6167127
+os_ou	328	24936	6167127	Κέφαλος	Κέφαλος	n-s---mn-	Cephalus	s---mn	SBJ	6167118
+os_ou	328	24938	6167137	χρόνου	χρόνος	n-s---mg-	time	s---mg	ADV	6167136
+os_ou	328	24939	6167151	δίφρου	δίφρος	n-s---mg-	the chariot (board); seat	s---mg	CO	6167148
+os_ou	328	24942	6167167	δίφροι	δίφρος	n-p---mn-	the chariot (board); seat	p---mn	SBJ	6167165
+os_ou	328	24942	6167170	κύκλῳ	κύκλος	n-s---md-	a ring	s---md	ADV	6167165
+os_ou	328	24943	6167177	Κέφαλος	Κέφαλος	n-s---mn-	Cephalus	s---mn	SBJ	6167178
+os_ou	328	24948	6167255	λόγους	λόγος	n-p---ma-	the word	p---ma	ATR	6167253
+os_ou	328	24949	6167270	νεανίσκοις	νεάνισκος	n-p---md-	nodef	p---md	OBJ	6167271
+os_ou	328	24950	6167293	Κέφαλε	Κέφαλος	n-s---mv-	Cephalus	s---mv	ExD	6167295
+os_ou	328	24951	6167312	ὁδὸν	ὁδός	n-s---fa-	a way	s---fa	OBJ	6167313
+os_ou	328	24952	6167356	οὐδῷ	οὐδός	n-s---md-	a threshold	s---md	PNOM	6167354
+os_ou	328	24952	6167365	βίου	βίος	n-s---mg-	life	s---mg	ADV	6167363
+os_ou	329	24955	6167428	πότους	πότος	n-p---ma-	drinking	p---ma	CO	6167427
+os_ou	329	24962	6167569	ἄνθρωπε	ἄνθρωπος	n-s---mv-	man	s---mv	ExD	6167564
+os_ou	329	24967	6167658	τρόπος	τρόπος	n-s---mn-	a turn	s---mn	CO	6167646
+os_ou	329	24967	6167660	ἀνθρώπων	ἄνθρωπος	n-p---mg-	man	p---mg	ATR	6167658
+os_ou	329	24971	6167710	Κέφαλε	Κέφαλος	n-s---mv-	Cephalus	s---mv	ExD	6167712
+os_ou	329	24971	6167733	τρόπον	τρόπος	n-s---ma-	a turn	s---ma	ADV	6167731
+os_ou	330	24977	6167822	λόγος	λόγος	n-s---mn-	the word	s---mn	SBJ	6167819
+os_ou	330	24978	6167855	Κέφαλε	Κέφαλος	n-s---mv-	Cephalus	s---mv	ExD	6167861
+os_ou	330	24981	6167887	πάππος	πάππος	n-s---mn-	a grandfather	s---mn	SBJ	6167902
+os_ou	330	24986	6168021	πλοῦτον	πλοῦτος	n-s---ma-	wealth	s---ma	ADV/OBJ	6168019
+os_ou	330	24993	6168100	μῦθοι	μῦθος	n-p---mn-	anything	p---mn	PNOM	6168099
+os_ou	331	24995	6168174	βίῳ	βίος	n-s---md-	life	s---md	ADV	6168172
+os_ou	331	24995	6168180	ὕπνων	ὕπνος	n-p---mg-	sleep	p---mg	ADV	6168178
+os_ou	331	24996	6168211	Πίνδαρος	Πίνδαρος	n-s---mn-	Pindar	s---mn	SBJ	6168212
+os_ou	331	24997	6168232	βίον	βίος	n-s---ma-	life	s---ma	OBJ	6168233
+os_ou	331	25000	6168292	θεῷ	θεός	n-s---md-	god	s---md	OBJ	6168290
+os_ou	331	25000	6168296	ἀνθρώπῳ	ἄνθρωπος	n-s---md-	man	s---md	CO	6168292
+os_ou	331	25002	6168333	νοῦν	νόος	n-s---ma-	mind	s---ma	OBJ	6168334
+os_ou	331	25002	6168339	πλοῦτον	πλοῦτος	n-s---ma-	wealth	s---ma	SBJ	6168341
+os_ou	331	25003	6168352	Κέφαλε	Κέφαλος	n-s---mv-	Cephalus	s---mv	ExD	6168349
+os_ou	331	25008	6168450	ὅρος	ὅρος	n-s---mn-	a boundary	s---mn	PNOM	6168451
+os_ou	331	25009	6168475	Πολέμαρχος	Πολέμαρχος	n-s---mn-	Polemarchus	s---mn	SBJ	6168468
+os_ou	331	25010	6168489	Κέφαλος	Κέφαλος	n-s---mn-	Cephalus	s---mn	SBJ	6168487
+os_ou	331	25010	6168495	λόγον	λόγος	n-s---ma-	the word	s---ma	OBJ	6168492
+os_ou	331	25012	6168512	Πολέμαρχος	Πολέμαρχος	n-s---mn-	Polemarchus	s---mn	OBJ/ExD	6168507
+os_ou	331	25012	6168517	κληρονόμος	κληρονόμος	n-s---mn-	one who receives a portion	s---mn	OBJ/PNOM	6168507
+os_ou	331	25014	6168543	λόγου	λόγος	n-s---mg-	the word	s---mg	ATR	6168544
+os_ou	331	25014	6168544	κληρονόμος	κληρονόμος	n-s---mn-	one who receives a portion	s---mn	APOS	6168540
